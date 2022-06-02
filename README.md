@@ -6,7 +6,7 @@ i used it to make my game [Tunisian-Dama](https://github.com/ihebrachdi/Tunisian
 
 [GLFW](https://www.glfw.org/download.html)\
 GLEW\
-[stb_image](https://github.com/nothings/stb) : it's included in this source file\
+[stb_image](https://github.com/nothings/stb) : it's included in this source file
 
 ## Contains : 
 
