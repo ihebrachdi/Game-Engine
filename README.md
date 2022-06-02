@@ -6,18 +6,18 @@ i used it to make my game [Tunisian-Dama](https://github.com/ihebrachdi/Tunisian
 
 [GLFW](https://www.glfw.org/download.html)\
 GLEW\
-[stb_image](https://github.com/nothings/stb) : it's included in this source file \
+[stb_image](https://github.com/nothings/stb) : it's included in this source file\
 
 ## Contains : 
 
 Display Controler\
-VAO VBO EBO classes\  
+VAO VBO EBO classes\
 Shader Files handler encapsulation\
 Mesh system\
 Mathematics library\
 Renderer system\
 Picking system\
-Times\
+Times
 
 
 
